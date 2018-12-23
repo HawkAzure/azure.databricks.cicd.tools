@@ -72,7 +72,7 @@
     'Update-DatabricksClusterResize', 'Add-DatabricksDBFSFile', 'Add-DatabricksLibrary', 'Add-DatabricksNotebookJob',
     'Get-DatabricksDBFSFolder', 'Get-DatabricksJobs', 'Get-DatabricksLibraries', 'Remove-DatabricksDBFSItem',
     'Remove-DatabricksJob', 'Add-DatabricksSparkSubmitJob', 'Add-DatabricksPythonJob', 'Add-DatabricksJarJob',
-    'Get-DatabricksGroups', 'Add-DatabricksDBFSFolder'
+    'Get-DatabricksGroups', 'Add-DatabricksDBFSFolder', 'Add-DatabricksGroup'
 
     # Cmdlets to export from this module
     CmdletsToExport = '*'
